@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
   <file>
+    <filename>HelloWorld.lua</filename>
+  </file>
+  <file>
     <filename>Marine.lua</filename>
   </file>
   <file>
@@ -10,9 +13,15 @@
     <filename>ModMarine.lua</filename>
   </file>
   <file>
+    <filename>ModResourcePoint.lua</filename>
+  </file>
+  <file>
     <filename>ModShared.lua</filename>
   </file>
   <file>
     <filename>NS2Gamerules.lua</filename>
+  </file>
+  <file>
+    <filename>ResourcePoint.lua</filename>
   </file>
 </project>
