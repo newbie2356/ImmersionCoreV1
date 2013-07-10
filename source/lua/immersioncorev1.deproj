@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <file>
+    <filename>Marine.lua</filename>
+  </file>
+  <file>
+    <filename>ModLoading.lua</filename>
+  </file>
+  <file>
+    <filename>ModMarine.lua</filename>
+  </file>
+  <file>
+    <filename>ModShared.lua</filename>
+  </file>
+  <file>
+    <filename>NS2Gamerules.lua</filename>
+  </file>
+</project>
