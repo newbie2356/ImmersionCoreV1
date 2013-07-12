@@ -1,0 +1,1 @@
+Script.Load("lua/NS2Gamerules.lua")

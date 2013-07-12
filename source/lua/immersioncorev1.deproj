@@ -13,6 +13,9 @@
     <filename>ModMarine.lua</filename>
   </file>
   <file>
+    <filename>ModNS2Gamerules.lua</filename>
+  </file>
+  <file>
     <filename>ModResourcePoint.lua</filename>
   </file>
   <file>
@@ -20,8 +23,5 @@
   </file>
   <file>
     <filename>NS2Gamerules.lua</filename>
-  </file>
-  <file>
-    <filename>ResourcePoint.lua</filename>
   </file>
 </project>
